@@ -67,8 +67,6 @@ for i in range(number_length - 1):
     final_number = final_number + (str(random_digit))
     list_of_digits.remove(random_digit)
 
-print(final_number)
-
 # "Uvítání soutěžícího" :)  
 print(
     "Hi there!\n"
